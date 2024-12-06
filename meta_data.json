@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "image",
+        "1": "media",
+        "2": "social network",
+        "3": "mobile",
+        "4": "chat"
+    },
+    "demo_page": "https://multi-11028.bubbleapps.io/version-test",
+    "description": "Generate a Colorful Avatar from over 12 Million Options!",
+    "image": "//meta-q.cdn.bubble.io/f1733485847275x414564136805496450/mavatar.png",
+    "license": "open_source",
+    "link": "http://buildlaunch.dev",
+    "name": "Multi Avatar",
+    "plugin_instructions": "1. Drop the element on the page (Must be visible).\n\n2. Generate avatar using \"Generate Multi-Avatar\" Action.\n\nThat's it! "
+}
